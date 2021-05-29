@@ -7,7 +7,7 @@ Wentian Li, Yannis Almirantis, Astero Provata
 May 2021
 
 
-data sheet denovo-db.ALL.SHORT.SORTED.SNP.COM1.COM2.much.expanded.tsv.gz
+data sheet: denovo-db.ALL.SHORT.SORTED.SNP.COM1.COM2.much.expanded.tsv.gz
 ------------------------------------------------------------------------
 
 
