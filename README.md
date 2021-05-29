@@ -132,7 +132,7 @@ result file: table2a-2kb-window-intergenic-control.input
 
 
 This file is produced using the above perl script -- identical to Table
-2(i) in the paper (first 8 coolumns).
+2(i) in the paper (first 8 columns).
 
 
 result file: table2b-2kb-intergenic.input
